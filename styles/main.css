@@ -9038,7 +9038,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/home-img1.jpg") no-repeat center center;
+  background: url("../images/home-img2.jpg") no-repeat center center;
 /*   background-size: 100% 100%; */
   background-size: cover;
   background-position: 10%;
@@ -9202,7 +9202,7 @@ body {
 
 /* RSVP Style */
 .ww-rsvp-detail {
-  background: url("../images/13.jpg") no-repeat center center; 
+  background: url("../images/sampul-buku-tamu.jpg") no-repeat center center; 
 /*     background-color: white; */
     background-size: cover;
     min-height: 400px;
