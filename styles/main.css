@@ -9039,8 +9039,8 @@ body {
 /* Home Page Style */
 .ww-home-page {
   background: url("../images/home-img2.jpg") no-repeat center center;
-/*   background-size: 100% 100%; */
-  background-size: cover;
+  background-size: 100% 100%;
+/*   background-size: cover; */
   background-position: 10%;
   height: 100vh;
   min-height: 400px;
