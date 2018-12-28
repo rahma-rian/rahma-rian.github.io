@@ -9299,10 +9299,18 @@ body {
 .fb-comments{
   background-color: white;
   background-image:url("../images/marble.jpeg");
+   -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  padding: 1.25rem;
 
 }
 .fb-bc{
-  background-color:red;
+  background-color:white;
+   -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto;
+  padding: 1.25rem;
 }
 .undangan {
   font-size: 17px;
