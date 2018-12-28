@@ -9298,7 +9298,7 @@ body {
 
 .fb-comments{
   background-color: white;
-  background-image:url("../images/marble.jpeg");
+/*   background-image:url("../images/marble.jpeg"); */
    -webkit-box-flex: 1;
       -ms-flex: 1 1 auto;
           flex: 1 1 auto;
