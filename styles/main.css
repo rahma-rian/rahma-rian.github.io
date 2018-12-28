@@ -9038,7 +9038,7 @@ body {
 
 /* Home Page Style */
 .ww-home-page {
-  background: url("../images/mirror.jpg") no-repeat center center;
+  background: url("../images/home-img1.jpg") no-repeat center center;
 /*   background-size: 100% 100%; */
   background-size: cover;
   background-position: 10%;
@@ -9334,7 +9334,7 @@ body {
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400italic);
 blockquote{
-  font-size: 1em;
+  font-size: 0.5em;
   width:60%;
   margin:50px auto;
   font-family:Open Sans;
